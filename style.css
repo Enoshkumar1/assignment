@@ -2265,7 +2265,7 @@ blockquote cite:before {
 }
 .full-width-header .rs-header .menu-area {
   transition: all 0.3s ease;
-  background-image: linear-gradient(90deg, #03228f 10%, #0e73e4 100%);
+  background-image: linear-gradient(90deg, #5c038f 10%, #8d0cc1 100%);
 }
 .full-width-header .rs-header .menu-area .logo-area a img {
   transition: 0.4s;
